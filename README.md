@@ -1,2 +1,2 @@
 # api-go-estudo
-Estudo api go
+Api de estudo GO
