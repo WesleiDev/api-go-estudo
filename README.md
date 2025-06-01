@@ -1,2 +1,2 @@
 # api-go-estudo
-Api de estudo GO
+Api de estudo GO!
