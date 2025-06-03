@@ -2,7 +2,7 @@
 APP_NAME=opportunities
 
 # Tasks
-default: run
+default: run-with-docs 
 
 run:
 	@go run main.go
